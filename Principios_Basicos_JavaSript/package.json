@@ -1,0 +1,12 @@
+{
+  "name": "programacionbackendi",
+  "version": "1.0.0",
+  "description": "Descripción breve del proyecto.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
